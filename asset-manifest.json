@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/firstrepository/static/css/main.e393238f.css",
+    "main.js": "/firstrepository/static/js/main.4cff9ba8.js",
+    "static/js/787.6b0bed1b.chunk.js": "/firstrepository/static/js/787.6b0bed1b.chunk.js",
+    "index.html": "/firstrepository/index.html",
+    "main.e393238f.css.map": "/firstrepository/static/css/main.e393238f.css.map",
+    "main.4cff9ba8.js.map": "/firstrepository/static/js/main.4cff9ba8.js.map",
+    "787.6b0bed1b.chunk.js.map": "/firstrepository/static/js/787.6b0bed1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e393238f.css",
+    "static/js/main.4cff9ba8.js"
+  ]
+}
