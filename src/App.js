@@ -7,7 +7,7 @@ export default function Board() {
             <div className="board-row">
                 <Square />
                 <Square />
-
+bonjour
                 <Square />
             </div>
             <div className="board-row">
